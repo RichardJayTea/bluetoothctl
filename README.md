@@ -1,6 +1,6 @@
 # bluetoothctl
 
-Author: Richard Tea
+Author: Richard Jay Tea
 Email: richardjaytea@gmail.com
 
 Implemented the wrapper from Egor Fedorov from ReachView and the pexpect package to allow a Raspberry Pi to stream audio from a connected bluetooth device and it's auxiliary port.
